@@ -45,3 +45,6 @@ Finaly, load the script:
 </body>
 </html>
 ```
+
+## Credits
+Thanks to cjdowner for all of the crypto-currencies icons.
