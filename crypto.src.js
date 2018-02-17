@@ -2,7 +2,8 @@
  * CryptoButton, an easy to use widget to create donation buttons for crypto
  * currencies
  */
-
+function cryptoButton() {
+	
 var nodeList = document.getElementsByClassName("crypto-button");
 
 nodes = Array.prototype.slice.call(nodeList, 0);
@@ -19,3 +20,4 @@ nodes
 						+ node.dataset.address);
 			}
 		});
+}
