@@ -5,7 +5,7 @@ CryptoButton is a simple script to create quick crypto-currency donation buttons
 First, include the script in the head element:
 
 ```html
-<script type="text/javascript" src="https://cdn.rawgit.com/Electro-Light/CryptoButton/master/crypto.src.js"></script>
+<script type="text/javascript" src="https://cdn.rawgit.com/Electro-Light/CryptoButton/55be4e60/crypto.src.js"></script>
 ```
 Then, add the buttons:
 
@@ -45,3 +45,6 @@ Finaly, load the script:
 </body>
 </html>
 ```
+
+## Credits
+Thanks to cjdowner for all of the crypto-currencies icons.
