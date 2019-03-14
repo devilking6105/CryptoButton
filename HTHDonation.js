@@ -1,9 +1,4 @@
-<!DOCTYPE html>
 <html>
-<head>
-<meta charset="UTF-8">
-<title>CryptoButton</title>
-<script type="text/javascript" src="https://cdn.rawgit.com/Electro-Light/CryptoButton/55be4e60/crypto.src.js"></script>
 </head>
 <body>
 
